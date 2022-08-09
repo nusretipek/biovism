@@ -1,42 +1,44 @@
-# Wowchemy's Research Group Template for [Hugo](https://github.com/gohugoio/hugo)
+<img align="left" width="150px" src="assets/media/logo.png">
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+# BIOVISM (Research Group Website) 
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 5 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
+This website uses [Wowchemy's Research Group Template](https://wowchemy.com/tags/research-group/) for [Hugo](https://gohugo.io) which is a static website generator.
 
-_[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs._
+## Downloading Website Template (Local)
 
-- 👉 [**Get Started**](https://wowchemy.com/templates/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-modules/releases)
+```
+git clone https://github.com/nusretipek/biovism.git
+```
 
-## Crowd-funded open-source software
+## Building Website
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+### Install Hugo
 
-### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/sponsor/)
+Follow instructions here for [Windows](https://gohugo.io/getting-started/installing/#chocolatey-windows) <br />
+Follow instructions here for [Linux](https://gohugo.io/getting-started/installing/#linux) <br />
+Follow instructions here for [MacOS](https://gohugo.io/getting-started/installing/#macos) <br /> <br />
 
-## Ecosystem
+### Locally Hosting Website
 
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli/):** Automatically import publications from BibTeX
+**Step 1.** Change current directory to website template directory <br />
+**Step 2.** Run terminal in the website template directory <br />
+**Step 3.** Use ```hugo server``` command to build live website. <br />
+**Step 4.** Go to http://localhost:1313/ to view the website. <br />
 
-[![Screenshot](./preview.png)](https://wowchemy.com/templates/)
+### Edit Content
 
-## Demo Credits
+Most important components are located within the **/content** directory.  <br /> <br />
 
-Please replace the demo images with your own.
+To edit your personal information, go to **content/authors/(YOUR NAME)/** --- CV files are stored in **/static/files/(YOUR NAME)**  <br />
+To edit your publications, go to **content/publication/(YOUR PUBLICATION)/**  <br />
+To add a new publication, go to **content/publication/** and use copy of **journal-article** directory as template <br />
+To edit or add demonstration, go to **content/demos/demos.md**  <br />
+To edit or add blog posts (news), go to **content/post/** and use copy of 22-02-02-Detectron-2-Workshop** as template  <br />
+To edit research page, go to **content/research/research.md**  <br />
 
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+### Build Static Website Files
 
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/starter-research-group/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+```
+hugo -D
+```
+
