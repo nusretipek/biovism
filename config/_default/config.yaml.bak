@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title:  Biovism Lab # Website name
+title: Wowchemy Research Group # Website name
 baseurl: '' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
@@ -46,7 +46,7 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest] # headers, redirects
+  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
 markup:
   defaultMarkdownHandler: goldmark
@@ -77,8 +77,3 @@ related:
       weight: 100
     - name: categories
       weight: 70
-security:
-  funcs:
-    getenv:
-      - ^HUGO_
-      - ^WC_

@@ -5,20 +5,20 @@
 
 main:
   - name: Home
-    url: ''
+    url: home/
     weight: 10
+  - name: News
+    url: post
+    weight: 20
   - name: People
     url: people
     weight: 30
-  - name: Research
-    url: research
-    weight: 20
-  - name: Demos
-    url: demos
+  - name: Events
+    url: event
     weight: 40
   - name: Publications
     url: publication
     weight: 50
-  - name: Join Us
-    url: joinus
+  - name: Contact
+    url: contact
     weight: 60

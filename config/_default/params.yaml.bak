@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal 
+theme: minimal
 day_night: false
-font: Classic
+font: native
 font_size: L
 
 # SEO
@@ -47,12 +47,12 @@ contact_links:
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
   show_language: false
-  show_day_night: false
+  show_day_night: true
   show_search: true
-  highlight_active_link: true
+  highlight_active_link: false
 
 # Localization
 
@@ -62,7 +62,7 @@ address_format: en-us
 
 # Site features
 
-highlight: true
+highlight: false
 math: false
 diagram: false
 privacy_pack: false

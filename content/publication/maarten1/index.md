@@ -1,39 +1,36 @@
 ---
-title: "Improved Wood Species Identification Based On Multi-View Imagery of The Three Anatomical Planes"
+title: "Gebruik van machine learning methoden voor het voorspellen van productiekengetallen bij melkvee"
 authors:
-- jan
+- maarten
 author_notes:
 - ""
 
-date: "2022-01-05T00:00:00Z"
+date: "2020-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-01-05T00:00:00Z"
+publishDate: "2020-07-01T00:00:00Z"
 
 # Publication type
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Improved Wood Species Identification Based On Multi-View Imagery of The Three Anatomical Planes"
+publication: "Master Thesis of Bioscience Engineering: Agricultural Sciences"
 publication_short: ""
-
-abstract: Conclusions Additional images from the non-transversal sections can boost the performance of machine-learning-based wood species identification methods. Additionally, care should be taken when evaluating the performance of machine-learningbased wood species identification methods to avoid an overestimation of the performance.
 
 # Summary. An optional shortened abstract.
 #summary: 
 
 tags:
-- Source Themes
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://assets.researchsquare.com/files/rs-1167349/v1_covered.pdf?c=1641397167
+url_pdf: https://libstore.ugent.be/fulltxt/RUG01/002/839/655/RUG01-002839655_2020_0001_AC.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

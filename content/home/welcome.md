@@ -7,9 +7,8 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  Wowchemy  
-  Research Group
-hero_media: welcome.jpg
+  UGent Biovism Lab
+hero_media: temp.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -18,6 +17,24 @@ design:
   css_class:
 ---
 
-<br>
+<style>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+p {
+  text-align: justify;
+  text-justify: inter-word;
+  font-size: 20px;
+}
+
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+</style>
+
+
+<div>
+<br>
+<p>The <strong>Biovism Lab</strong> specialize in mathematical and computational modelling of biological artificats including 
+computer vision, multi-modal learning, hybrid models, natural language processing (NLP), computational fluod dynamics (CFD) and knowledge-based application systems.</p>
+</div>
