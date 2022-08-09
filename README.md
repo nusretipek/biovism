@@ -29,7 +29,8 @@ Follow instructions here for [MacOS](https://gohugo.io/getting-started/installin
 
 Most important components are located within the **/content** directory.  <br /> <br />
 
-To edit your personal information, go to **content/authors/(YOUR NAME)/** --- CV files are stored in **/static/files/(YOUR NAME)**  <br />
+To edit your personal information, go to **content/authors/(YOUR NAME)/** <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CV files are stored in **/static/files/(YOUR NAME)**  <br />
 To edit your publications, go to **content/publication/(YOUR PUBLICATION)/**  <br />
 To add a new publication, go to **content/publication/** and use copy of **journal-article** directory as template <br />
 To edit or add demonstration, go to **content/demos/demos.md**  <br />
