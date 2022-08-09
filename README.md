@@ -34,7 +34,7 @@ To edit your personal information, go to **content/authors/(YOUR NAME)/** <br />
 To edit your publications, go to **content/publication/(YOUR PUBLICATION)/**  <br />
 To add a new publication, go to **content/publication/** and use copy of **journal-article** directory as template <br />
 To edit or add demonstration, go to **content/demos/demos.md**  <br />
-To edit or add blog posts (news), go to **content/post/** and use copy of 22-02-02-Detectron-2-Workshop** as template  <br />
+To edit or add blog posts (news), go to **content/post/** and use copy of **22-02-02-Detectron-2-Workshop** as template  <br />
 To edit research page, go to **content/research/research.md**  <br />
 
 ### Build Static Website Files
