@@ -47,10 +47,10 @@ hugo -D
 
 ### Git
 
-If have no working knowledge of Git at commandline, then I suggest you to go over [Git in 2 Minutes](https://www.garyrobinson.net/2014/10/git-in-two-minutes-for-a-solo-developer.html) and [Git in 5 Minutes](https://classic.scottr.org/presentations/git-in-5-minutes/). Note that you migt need to still search [Git Documentation](https://git-scm.com/doc) for specific tasks.
+If have no working knowledge of Git at commandline, then I suggest you to go over [Git in 2 Minutes](https://www.garyrobinson.net/2014/10/git-in-two-minutes-for-a-solo-developer.html) and [Git in 5 Minutes](https://classic.scottr.org/presentations/git-in-5-minutes/). Note that you migt need to still search [Git Documentation](https://git-scm.com/doc) for specific tasks. <br /><br />
 
-**Step 1.** Fork this repository (via web browser or Github CLI) / clone using the above command (Git Bash)
-**Step 2.** Make changes locally and push to your origin (Git Bash or Github CLI)
-**Step 3.** Create a pull request to merge with the main project repository (via Git Bash, Github CLI or web broweser)
+**Step 1.** Fork this repository (via web browser or Github CLI) / clone using the above command (Git Bash)<br />
+**Step 2.** Make changes locally and push to your origin (Git Bash or Github CLI)<br />
+**Step 3.** Create a pull request to merge with the main project repository (via Git Bash, Github CLI or web broweser) <br /><br />
 
-**Note:** *The network drives are only accesible by Jan Verwaeren; all pull requests need to be pushed by moderators*
+**Note:** *The network drives are only accesible by Jan Verwaeren; all pull requests need to be pushed by moderators* <br />
