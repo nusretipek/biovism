@@ -32,7 +32,7 @@ education:
   - course: PhD Bioscience Engineering - Environmental technology
     institution: University of Ghent (UGent)
     year: 2019 - Ongoing
-  - course: B. Sc & M. Sc in Bioscience Engineering - Environmental Technology
+  - course: BSc & MSc in Bioscience Engineering - Environmental Technology
     institution: University of Ghent (UGent)
     year: 2013-2019
 
@@ -63,7 +63,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ph.D. Students
+- In-house Staff
 
 ---
-Arne Deloose is a PhD student in Bioscience Engineering with a strong background in environmental technologies, data analysis and natural language processing. His current research involves extracting structured knowledge from unstructured natural language texts using techniques such as knowledge graph construction. 
+<p align="justify" style="font-size:18px;"><b> Arne Deloose </b> is a PhD student in Bioscience Engineering with a strong background in environmental technologies, data analysis and natural language processing. His current research involves extracting structured knowledge from unstructured natural language texts using techniques such as knowledge graph construction. </p>

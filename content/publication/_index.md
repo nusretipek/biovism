@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Recent Publications
 view: 4
 
 header:

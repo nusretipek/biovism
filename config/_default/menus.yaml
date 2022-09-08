@@ -13,12 +13,9 @@ main:
   - name: Research
     url: research
     weight: 20
-  - name: Demos
-    url: demos
-    weight: 40
-  - name: Publications
+  - name: Recent Publications
     url: publication
-    weight: 50
+    weight: 40
   - name: Join Us
     url: joinus
-    weight: 60
+    weight: 50

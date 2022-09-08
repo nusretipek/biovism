@@ -18,9 +18,7 @@ organizations:
   url: "https://ai.ugent.be/people/JanVerwaeren.en.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: In 2018, Jan Verwaeren became associate professor at Ghent University and member of the research unit on Knowledge-based systems. As a computer scientist, his research interests lie on the crossroads between machine learning, mathematical optimization and image processing. His expertise includes methodological and algorithmic development as well as applied research in these areas. 
-Jan his research interests lie on the crossroads between machine learning, mathematical optimization and image processing. From a methodological point of view, he likes to combine novel insights from the fields of convex and discrete optimization to develop new data analysis strategies for solving predictive modelling (with a focus on mixtures), image processing and multimodal data-analysis problems. From an application point of view, through collaborations with research units in a variety of research domains in the broad field of applied biological sciences, he has demonstrated experience in the use of image processing techniques in several areas in the life sciences. At the moment, he is actively involved in several machine vision projects on animal welfare and wood identification. Moreover, he is involved in several projects in the pharmaceutical sector that focus on fusing data- and knowledge- based predictive modeling of mixtures to improve sequential experimental for developing formulations of oral solid dosage forms and optimizing scaffolds for the ATMP industry. 
-
+bio: In 2018, Jan Verwaeren became an associate professor at Ghent University and a member of the research unit on Knowledge-based systems. As a computer scientist, his research interests lie at the crossroads between machine learning, mathematical optimization and image processing. His expertise includes methodological and algorithmic development as well as applied research in these areas. Jan his research interests lie at the crossroads between machine learning, mathematical optimization and image processing. From a methodological point of view, he likes to combine novel insights from the fields of convex and discrete optimization to develop new data analysis strategies for solving predictive modeling (with a focus on mixtures), image processing and multimodal data-analysis problems. From an application point of view, through collaborations with research units in a variety of research domains in the broad field of applied biological sciences, he has demonstrated experience in the use of image processing techniques in several areas of the life sciences. At the moment, he is actively involved in several machine vision projects on animal welfare and wood identification. Moreover, he is involved in several projects in the pharmaceutical sector that focuses on fusing data and knowledge\-based predictive modeling of mixtures to improve sequential experimental for developing formulations of oral solid dosage forms and optimizing scaffolds for the ATMP industry. 
 
 interests:
 - Computer vision
@@ -47,12 +45,16 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jan.verwaeren@ugent.be'
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/janverwaeren
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=tK68zYoAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/jverwaer
+
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -70,4 +72,4 @@ user_groups:
 
 ---
 
-Jan Verwaeren is a ... 
+<p align="justify" style="font-size:18px;"> <b>Jan Verwaeren</b> is an associate professor at Ghent University and a member of the research unit on Knowledge-based systems. As a computer scientist, his research interests lie at the crossroads between machine learning, mathematical optimization and image processing. His expertise includes methodological and algorithmic development as well as applied research in these areas. Jan his research interests lie at the crossroads between machine learning, mathematical optimization and image processing. From a methodological point of view, he likes to combine novel insights from the fields of convex and discrete optimization to develop new data analysis strategies for solving predictive modeling (with a focus on mixtures), image processing and multimodal data-analysis problems. </p>

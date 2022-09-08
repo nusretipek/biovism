@@ -58,6 +58,7 @@ body {
 
 p {
   font-size: 16px;
+  text-align: justify;
 }
 
 .site-footer {
@@ -79,10 +80,10 @@ p {
 		<div class="content">
 			<img src="phd.png" style="height: 100px; width:100px;">
 			<div class="text">
-				<p> Interested in joining the team as a PhD student? Check the following vacancies:
+				<p> Interested in joining the team as a PhD student? Check the following vacancies: </p>
 				 <ul>
-				   <li>We have a PhD Position on Hybrid water quality forecasting using sensor data and mechanistic models. If you hold a master degree with in (bio-)engineering, computer science and are interested developing new water quality forecasting models, hybrid modeling and working with live sensor-data, then have a look at  <a href="https://jobs.vito.be/o/phd-position-hybrid-water-quality-forecasting-using-sensor-data-and-mechanistic-models">this vacancy</a>! </li>
-				   <li>Interested in a PhD position that focuses on the mathematical aspects of computer vision, feel free to send a letter of motivation, CV and a recent publication (such as for instance your masterthesis) to <a href = "mailto: jan.verwaeren@ugent.be">jan.verwaeren@ugent.be</a>  </li>
+				   <li><p>We have a PhD Position on Hybrid water quality forecasting using sensor data and mechanistic models. If you hold a master's degree in (bio-)engineering, computer science and are interested in developing new water quality forecasting models, hybrid modeling and working with live sensor data, then have a look at  <a href="https://jobs.vito.be/o/phd-position-hybrid-water-quality-forecasting-using-sensor-data-and-mechanistic-models">this vacancy</a> </p></li>
+				   <li><p>Interested in a PhD position that focuses on the mathematical aspects of computer vision, feel free to send a letter of motivation, CV and a recent publication (such as your master thesis) to <a href = "mailto: jan.verwaeren@ugent.be">jan.verwaeren@ugent.be</a> </p> </li>
 				 </ul> 
 			    </p>
 			</div>
@@ -90,12 +91,12 @@ p {
 	</div>
 	<div class='graduate'>
 		<div class="title">
-			<h3><strong>Bachelor students | Master students </strong></h3>
+			<h3><strong>Bachelor | Master students </strong></h3>
 		</div>
 		<div class="content">
 			<img src="grad.png" style="height: 100px; width:100px;">
 			<div class="text">
-				<p>Thank you for your interest in participating in our research. Master and bachelor thesis topics can be found at <a href="https://www.ugent.be/bw/nl/voor-studenten#Curriculumsamenstellen"> here </a>. </p>
+				<p>Thank you for your interest in participating in our research. Master and bachelor thesis topics can be found at <a href="https://www.ugent.be/bw/nl/voor-studenten#Curriculumsamenstellen"> here </a> </p>
 			</div>
 		</div>
 	</div>
@@ -112,5 +113,5 @@ p {
 	<div><img src="email.png" style="height: 100px; width:100px;"></div>
 	<div><a href="https://goo.gl/maps/i8HWBFsRyHHMwRN4A">Campus Coupure, Block A 1st floor 110.079, Coupure links 653, B-9000 Ghent, Belgium</a></div>
 	<div><a href="tel:+32 9 264 59 33">+32 9 264 59 33</a> </div>
-	<div><a href="mailto:Jan.Verwaeren@UGent.edu">Jan.Verwaeren@UGent.edu</a></div>
+	<div><a href="mailto:Jan.Verwaeren@UGent.be">Jan.Verwaeren@UGent.be</a></div>
 </div>

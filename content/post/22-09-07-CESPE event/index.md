@@ -1,6 +1,8 @@
 ---
 title: CESPE conference on Manufacturing Innovations for a Sustainable (Bio)Pharmaceutical Industry 
 date: 2022-07-05
+authors: ["@Arne", "@Manuel"]
+
 image:
   focal_point: "top"
 ---

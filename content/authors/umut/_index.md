@@ -65,8 +65,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ph.D. Students
+- Affiliated Staff
 
 ---
 
-Umut is a Data Scientist with a background in Physics. His PhD project focuses on developing surrogate physical models for pharmaceutical processes.
+<p align="justify" style="font-size:18px;"><b> Umut Kaya </b> is a Data Scientist with a background in Physics. His PhD project focuses on developing surrogate physical models for pharmaceutical processes. </p> 

@@ -68,9 +68,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ph.D. Students
+- Affiliated Staff
 
 ---
 
-Evan Claes is a PhD student in Bioscience Engineering with a strong background in bio-science, data analysis and hybrid modelling. He is affiliated with Antleron NV. 
-His current research focus on analytical Quality-by-Design and hybrid modelling to enable technologies for ATMP manufacturing 4.0.
+<p align="justify" style="font-size:18px;"><b> Evan Claes </b> is a PhD student in Bioscience Engineering with a strong background in bio-science, data analysis and hybrid modelling. He is affiliated with Antleron NV. 
+His current research focus on analytical Quality-by-Design and hybrid modelling to enable technologies for ATMP manufacturing 4.0. </p>

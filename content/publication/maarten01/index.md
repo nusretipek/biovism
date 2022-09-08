@@ -18,7 +18,7 @@ publishDate: "2020-07-01T00:00:00Z"
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Master Thesis of Bioscience Engineering: Agricultural Sciences"
+publication: ""
 publication_short: ""
 
 # Summary. An optional shortened abstract.

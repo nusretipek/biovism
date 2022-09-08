@@ -33,7 +33,7 @@ education:
   - course: MSc in Statistics and Data Science
     institution: KU Leuven
     year: 2021
-  - course: B. Sc in Physics 
+  - course: BSc in Physics 
     institution: Universidad Complutense, Madrid
     year: 2018
 
@@ -61,7 +61,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ph.D. Students
+- In-house Staff
 
 ---
-Manuel Borja is a PhD student in Bioscience Engineering that comes from a background in statistics and natural sciences. His research concerns the application of machine learning techniques for optimization of drug formulation development.
+<p align="justify" style="font-size:18px;"><b> Manuel Borja </b>  is a PhD student in Bioscience Engineering that comes from a background in statistics and natural sciences. His research concerns the application of machine learning techniques for optimization of drug formulation development. </p> 

@@ -1,6 +1,7 @@
 ---
 title: BOF scholarship for Nusret Ipek 
-date: 2022-07-05
+authors: ["@Nusret"]
+date: 2022-09-01
 image:
   focal_point: "top"
 ---

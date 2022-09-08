@@ -18,7 +18,7 @@ publishDate: "2022-01-05T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Predicting the hydrodynamic properties of a bioreactor: Conditional density estimation as a surrogate model for CFD simulations"
+publication: "Chemical Engineering Research and Design"
 publication_short: ""
 
 abstract: The rising quantity and quality demands in biopharmaceutical manufacturing require a deep understanding of the underlying bioprocesses. For this purpose, computational fluid dynamics (CFD) simulations are typically used to predict the hydrodynamics properties of a bioreactor, offering a toolset for process design. However, CFD approaches are computationally demanding and therefore often restricted to a small set of input parameters. Basic regression techniques can be used to predict the hydrodynamic properties for new input parameter values, but these surrogate models are only capable of interpolating simple statistics such as the mean or maximum of the CFD simulation results. We propose a novel approach that allows to interpolate the volume-averaged distributions of a hydrodynamic property instead of only a simple statistic. In doing so, we (i) obtain a computationally tractable model (ii) that is less expressive than a CFD simulation but more expressive than a basic regression model. The proposed approach has been applied to model the hydrodynamic stress and Kolmogorov length scale distributions using a CFD model of a sparged and stirred bioreactor. However, the methodology is generic and can be applied to further geometries and parameters.
