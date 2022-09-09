@@ -71,8 +71,10 @@ h3 {
 <div class="content">
   <img src="../icon.png" style="height: 250px; width:250px;">
   <div class="text">
-	<p>The <b>Biovism</b> lab focuses on the automated extraction of information from visual and multi-modal sensors and its embedding in computational models, with applications in the life sciences. Biovism is part of the research unit on <a href="https://kermit.ugent.be/"> Knowledge-based Systems</a> of the <a href="https://www.ugent.be/bw/en"> Faculty of Bioscience Engineering</a> at <a href="https://www.ugent.be/en"> Ghent University</a>.
-Researchers at the lab develop new methodologies in the fields of computer vision, multi-modal data analysis and applied mathematics that allow for extraction and information fusion from heterogeneous and unstructured data sources, to improve the performance of computational models in the animal, pharmaceutical and environmental sciences. </p>
+	<p>The <b>Biovism</b> lab focuses on the automated extraction of information from visual and multi-modal sensors and its embedding in computational models, with applications in the life sciences. Biovism is part of the research unit on <a href="https://kermit.ugent.be/"> Knowledge-based Systems</a> of the <a href="https://www.ugent.be/bw/en"> Faculty of Bioscience Engineering</a> at <a href="https://www.ugent.be/en"> Ghent University</a>.</p>
+  	<br>
+	<p>Researchers at the lab develop new methodologies in the fields of computer vision, multi-modal data analysis and applied mathematics that allow to extract and fuse information from heterogeneous and unstructured data sources. Their main motivation is to improve the performance of computational models in the animal, pharmaceutical and environmental sciences.</p>
+
   </div>
 </div>
 

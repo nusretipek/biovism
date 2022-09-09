@@ -1,9 +1,9 @@
 ---
 title: "Comparing a product-specific versus a general emoji list to measure consumers’ emotional associations with chocolate and predict food choice"
 authors:
-- Jan
+- Schouteten et al
 author_notes:
-- ""
+- "Jan Verwaeren" 
 
 date: "2022-07-01T00:00:00Z"
 doi: ""

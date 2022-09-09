@@ -1,9 +1,9 @@
 ---
 title: "Predicting the hydrodynamic properties of a bioreactor: Conditional density estimation as a surrogate model for CFD simulations"
 authors:
-- umut
+- Kaya et al 
 author_notes:
-- ""
+- "Umut Kaya and Jan Verwaeren"
 
 date: "2022-06-01T00:00:00Z"
 doi: ""

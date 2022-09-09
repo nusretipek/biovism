@@ -1,9 +1,9 @@
 ---
 title: "Shifts in the rhizobiome during consecutive in planta enrichment for phosphate-solubilizing bacteria differentially affect maize P status"
 authors:
-- Jan
+- De Zutter et al
 author_notes:
-- ""
+- "Jan Verwaeren"
 
 date: "2021-05-22T00:00:00Z"
 doi: ""

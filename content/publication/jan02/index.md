@@ -1,9 +1,9 @@
 ---
 title: "Uncovering new insights and misconceptions on the effectiveness of phosphate solubilizing rhizobacteria in plants: a meta-analysis"
 authors:
-- Jan
+- De Zutter et al
 author_notes:
-- ""
+- "Jan Verwaeren"
 
 date: "2022-03-02T00:00:00Z"
 doi: ""

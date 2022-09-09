@@ -1,9 +1,9 @@
 ---
 title: "Improved Wood Species Identification Based On Multi-View Imagery of The Three Anatomical Planes"
 authors:
-- jan
+- Da Silva et al
 author_notes:
-- ""
+- "Jan Verwaeren"
 
 date: "2022-01-05T00:00:00Z"
 doi: ""
