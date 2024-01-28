@@ -53,3 +53,8 @@ If have no working knowledge of Git at commandline, then I suggest you to go ove
 **Step 3.** Create a pull request to merge with the main project repository (via Git Bash, Github CLI or web broweser) <br /><br />
 
 **Note:** *The network drives are only accesible by Jan Verwaeren; all pull requests need to be pushed by moderators* <br />
+
+
+## ChangeLog
+
+28/01/2024 - Joinus page updated with removal of VITO position, embedded Google Maps, fix the sliding issue. Biweekly news page updated with drop-down functionality. Recent paper of Nusret Ipek is added. Google analytics activated. 
