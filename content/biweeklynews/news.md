@@ -96,6 +96,45 @@ design:
 <html>
 <div class="title"><h2><strong>Biweekly News</strong></h2></div>
 
+<h3 class="expandable-header"><span class="arrow-container"><strong>Newsletter 6 | 20 Mar 2024</strong><span class="arrow"></span></span></h3>
+<div class="expandable-section">
+<h4>AI /ML</h4>
+	<ol>
+	    <li class="news"><p>New algorithm unlocks high-resolution insights for computer vision. <b>FeatUp</b>, developed by MIT CSAIL researchers, boosts the resolution of any deep network or visual foundation for computer vision systems.<br><a href="https://news.mit.edu/2024/featup-algorithm-unlocks-high-resolution-insights-computer-vision-0318" target="_blank">MIT News</a> & <a href="https://mhamilton.net/featup.html" target="_blank">Mark T. Hamilton (Paper)</a></p></li>
+		<li class="news"><p>A generalist AI agent for 3D virtual environments. Google DeepMind present new research on a Scalable Instructable Multiworld Agent (SIMA) that can follow natural-language instructions to carry out tasks in a variety of video game settings.<br><a href="https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/" target="_blank">Google DeepMind</a></p></li>
+		<li class="news"><p>Introducing the next generation of Claude; which sets new industry benchmarks across a wide range of cognitive tasks. All Claude 3 models show increased capabilities in analysis and forecasting, nuanced content creation, code generation, and conversing in non-English languages like Spanish, Japanese, and French.<br><a href="https://www.anthropic.com/news/claude-3-family" target="_blank">Anthropic</a></p></li>
+		<li class="news"><p>Cappy: Outperforming and boosting large multi-task language models with a small scorer. Cappy as a pre-trained model can potentially be used in other creative ways beyond on single LLMs.<br><a href="https://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html" target="_blank">Google Research</a></p></li>
+	  <li class="news"><p>Stealing Part of a Production Language Model. It was possible to steal part of OpenAI’s ChatGPT or Google’s PaLM-2 (up to an affine transformation) by making queries to their public APIs. It was a known vulnerability of deployed ML models since 2016; "Stealing Machine Learning Models via Prediction APIs".<br><a href="https://not-just-memorization.github.io/partial-model-stealing.html" target="_blank">GitHub (not-just-memorization)</a> & <a href="https://arxiv.org/abs/1609.02943" target="_blank">arXiv</a></p></li>
+		<li class="news"><p>Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking. A generalization of Self-Taught Reasoner (STaR) in which LMs learn to generate rationales at each token to explain future text, improving their predictions.<br><a href="https://arxiv.org/abs/2403.09629" target="_blank">arXiv</a></p></li>
+	  <li class="news"><p>Design2Code: How Far Are We From Automating Front-End Engineering. An open-source Design2Code-18B model that successfully matches the performance of Gemini Pro Vision.<br><a href="https://salt-nlp.github.io/Design2Code/" target="_blank">GitHub(salt-nlp)</a></p></li>
+		<li class="news"><p>Large language models surpass human experts in predicting neuroscience results. LLMs trained on the vast scientific literature could potentially integrate noisy yet interrelated findings to forecast novel results better than human experts.<br><a href="https://arxiv.org/abs/2403.03230" target="_blank">arXiv</a></p></li>
+		<li class="news"><p>Amazon reveals Chronos: Learning the Language of Time Series. A simple yet effective framework for pretrained probabilistic time series models.<br><a href="https://arxiv.org/abs/2403.07815" target="_blank">arXiv</a></p></li>
+		<li class="news"><p>Using generative AI to improve software testing; MIT spinout DataCebo helps companies bolster their datasets by creating synthetic data that mimic the real thing.<br><a href="https://news.mit.edu/2024/using-generative-ai-improve-software-testing-datacebo-0305" target="_blank">MIT News</a></p></li>
+		<li class="news"><p>Nvidia Unveils Blackwell, Its Next GPU; a big boost in AI training performance, an even bigger one for AI inference.<br><a href="https://spectrum.ieee.org/nvidia-blackwell" target="_blank">IEEE Spectrum</a></p></li>
+	</ol>
+<h4>Technology</h4>
+	<ol>
+	  <li class="news"><p>Nvidia Announces GR00T, a Foundation Model For Humanoids. GR00T is intended to provide a starting point for specific humanoid robots to do specific tasks.<br><a href="https://spectrum.ieee.org/nvidia-gr00t-ros" target="_blank">IEEE Spectrum</a></p></li>
+	  <li class="news"><p>3D microprinter hacked to fabricate transistors for bioelectronics. The speed of innovation in bioelectronics and critical sensors gets a new boost with the unveiling of a technique for fast-prototyping of devices.<br><a href="https://www.kth.se/en/om/nyheter/centrala-nyheter/3d-microprinter-hacked-to-fabricate-transistors-for-bioelectronics-1.1319335" target="_blank">KTH</a></p></li>
+		<li class="news"><p>Giant "sand battery" holds a week's heat for a whole town. It packs 1 MW of power and a capacity of up to 100 MWh of thermal energy for use during those cold polar winters.<br><a href="https://newatlas.com/energy/sand-battery-finland/" target="_blank">New Atlas</a></p></li>
+		<li class="news"><p>Figure AI presents full conversations with Figure 01 with OpenAI partnership.<br><a href="https://twitter.com/coreylynch/status/1767927194163331345" target="_blank">Twitter (coreylynch)</a></p></li>
+		<li class="news"><p>Mercedes Hires Humanoid Robots to Work at Its Factories. Apptronik's Apollo robots are 5'8 in height and will complete manual labor tasks like bringing parts to the Mercedes-Benz assembly line.<br><a href="https://www.pcmag.com/news/mercedes-hires-humanoid-robots-work-at-its-factories" target="_blank">PC Magazine</a></p></li>
+	</ol>
+<h4>Miscellaneous</h4>
+	<ol>
+	  <li class="news"><p>Bumblebees socially learn behaviour too complex to innovate alone.  Social learning might permit the acquisition of behaviours too complex to ‘re-innovate’ through individual learning.<br><a href="https://www.nature.com/articles/s41586-024-07126-4" target="_blank">Nature</a></p></li>
+		<li class="news"><p>Adaptive immune responses are larger and functionally preserved in a hypervaccinated individual. What happens if vaccinated 217 times against SARS-CoV-2 within a period of 29 months?<br><a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(24)00134-8/fulltext" target="_blank">The Lancet</a></p></li>
+		<li class="news"><p>Apple’s AI ambitions could include Google or OpenAI; The iPhone-maker is in ‘active’ talks to bring Gemini to the iPhone, and has also considered using ChatGPT.<br><a href="https://www.theverge.com/2024/3/18/24104626/apple-license-google-gemini-generative-ai-openai-chatgpt" target="_blank">The Verge</a></p></li>
+		<li class="news"><p>Tick-killing pill shows promising results in human trial;  the pill would be a new weapon against Lyme disease.<br><a href="https://arstechnica.com/science/2024/03/tick-killing-pill-shows-promising-results-in-human-trial/" target="_blank">Ars Technica</a></p></li>
+	</ol>
+<h4>Fun</h4>
+  <ol>
+	  <li class="news"><p><b>Paper:</b> "Certainly, here is a possible introduction for your topic" in scientific paper... Check first line of the introduction!<br><a href="https://www.sciencedirect.com/science/article/pii/S2468023024002402" target="_blank">Elsevier (Surfaces and Interfaces)</a></p></li>
+		<li class="news"><p><b>Movie List:</b> The Mathematical Movie Database.<br><a href="https://www.qedcat.com/moviemath/index.html#1" target="_blank">QEDCAT</a></p></li>
+	</ol>
+</div>
+
+
 <h3 class="expandable-header"><span class="arrow-container"><strong>Newsletter 5 | 06 Mar 2024</strong><span class="arrow"></span></span></h3>
 <div class="expandable-section">
 <h4>AI /ML</h4>

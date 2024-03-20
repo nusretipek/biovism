@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: PhD Bioscience Engineering - Environmental technology
+  - course: PhD in Bioscience Engineering - Environmental technology
     institution: Ghent University (UGent)
     year: 2019 - Ongoing
   - course: BSc & MSc in Bioscience Engineering - Environmental Technology

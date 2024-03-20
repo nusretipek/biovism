@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD Bioscience Engineering - Mathematical Modelling
+  - course: PhD in Bioscience Engineering - Mathematical Modelling
     institution: Ghent University (UGent)
     year: 2021 - Ongoing
   - course: MSc in Statistics and Data Science
