@@ -96,6 +96,42 @@ design:
 <html>
 <div class="title"><h2><strong>Biweekly News</strong></h2></div>
 
+
+<h3 class="expandable-header"><span class="arrow-container"><strong>Newsletter 7 | 03 Apr 2024</strong><span class="arrow"></span></span></h3>
+<div class="expandable-section">
+<h4>AI /ML</h4>
+	<ol>
+	  <li class="news"><p>Claude 3 Opus leading the Elo rating of Chatbot Arena. LMSYS Chatbot Arena is a crowdsourced open platform for LLM evals.<br><a href="https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard" target="_blank">Hugging Face</a></p></li>
+		<li class="news"><p>SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series. SiMBA outperforms existing State Space Models (SSMs), bridging the performance gap with state-of-the-art transformers.<br><a href="https://arxiv.org/abs/2403.15360" target="_blank">arXiv</a></p></li>
+		<li class="news"><p>Track Everything Everywhere Fast and Robustly. A substantial improvement in training speed (more than 10 times faster), robustness, and accuracy in tracking over the SoTA optimization-based method OmniMotion.<br><a href="https://timsong412.github.io/FastOmniTrack/" target="_blank">GitHub (FastOmniTrack)</a></p></li>
+		<li class="news"><p>ViTAR: Vision Transformer with Any Resolution. VITAR demonstrates impressive adaptability, achieving 83.3% top-1 accuracy at a 1120x1120 resolution and 80.4% accuracy at a 4032x4032 resolution, all while reducing computational costs.<br><a href="https://arxiv.org/abs/2403.18361" target="_blank">arXiv</a></p></li>
+	  <li class="news"><p>Moirai: A Time Series Foundation Model for Universal Forecasting, offering universal forecasting capabilities.<br><a href="https://blog.salesforceairesearch.com/moirai/" target="_blank">Salesforce AI Research</a></p></li>
+		<li class="news"><p>NonlinearSolve.jl: High-Performance and Robust Solvers for Systems of Nonlinear Equations in Julia.<br><a href="https://arxiv.org/abs/2403.16341" target="_blank">arXiv</a></p></li>
+		<li class="news"><p>Hybrid-Net: Real-time audio source separation, generate lyrics, chords, beat.<br><a href="https://github.com/DoMusic/Hybrid-Net" target="_blank">GitHub (DoMusic)</a></p></li>
+		<li class="news"><p>AI generates high-quality images 30 times faster in a single step. Novel method makes tools like Stable Diffusion and DALL-E-3 faster by simplifying the image-generating process to a single step while maintaining or enhancing image quality.<br><a href="https://news.mit.edu/2024/ai-generates-high-quality-images-30-times-faster-single-step-0321" target="_blank">MIT News</a></p></li>
+		<li class="news"><p>PERL: Parameter Efficient Reinforcement Learning from Human Feedback; reward model training and reinforcement learning using LoRA from Google Research.<br><a href="https://arxiv.org/abs/2403.10704" target="_blank">arXiv</a></p></li>
+		<li class="news"><p>From Google DeepMind, Vid2Robot: End-to-end Video-conditioned Policy Learning with Cross-Attention Transformers. Vid2Robot understands the task from videos and can perform in unseen settings.<br><a href="https://vid2robot.github.io" target="_blank">GitHub (vid2robot)</a></p></li>
+		<li class="news"><p>Towards 1-bit Machine Learning Models. Recent works on extreme low-bit quantization such as BitNet and 1.58 bit have attracted a lot of attention in the machine learning community. The main idea is that matrix multiplication with quantized weights can be implemented without multiplications, which can potentially be a game-changer in terms of compute efficiency of large machine learning models.<br><a href="https://mobiusml.github.io/1bit_blog/" target="_blank">GitHub (1bit_blog)</a></p></li>
+	</ol>
+<h4>Technology</h4>
+	<ol>
+	  <li class="news"><p>Inkjets are for more than just printing, they can build DNA arrays, 3D structures, and much more.<br><a href="https://spectrum.ieee.org/inkjet-printer" target="_blank">IEEE Spectrum</a></p></li>
+		<li class="news"><p>‘A landmark moment’: scientists use AI to design antibodies from scratch. Modified protein-design tool could make it easier to tackle challenging drug targets — but AI antibodies are still a long way from reaching the clinic.<br><a href="https://www.nature.com/articles/d41586-024-00846-7" target="_blank">Nature</a></p></li>
+		<li class="news"><p>Engineers find a new way to convert carbon dioxide into useful products.<br><a href="https://news.mit.edu/2024/engineers-find-new-way-convert-carbon-dioxide-useful-products-0327" target="_blank">MIT news</a></p></li>
+		<li class="news"><p>You can make a song for any moment in any major language with just a few short words. v3 is the first model capable of producing radio-quality music.<br><a href="https://www.suno.ai/blog/v3" target="_blank">Suno AI</a></p></li>
+	  <li class="news"><p>WindSpider launches a step-changing crane for use on increasingly larger wind turbines. The self-erecting crane has no weight or height limitations and can be used in very windy locations. The new solution significantly reduces the wind turbine’s life cycle costs for the global wind industry.<br><a href="https://windspider.com/gigantic-aluminium-spiders/" target="_blank">Wind Spider</a></p></li>
+	</ol>
+<h4>Miscellaneous</h4>
+	<ol>
+	  <li class="news"><p>Algorithmic improvement is a key factor driving the advance of AI. An analysis showing that since 2012 the amount of compute needed to train a neural net to the same performance on ImageNet classification has been decreasing by a factor of 2 every 16 months. Compared to 2012, it now takes 44 times less compute to train a neural network to the level of AlexNet (by contrast, Moore’s Law would yield an 11x cost improvement over this period). Our results suggest that for AI tasks with high levels of recent investment, algorithmic progress has yielded more gains than classical hardware efficiency.<br><a href="https://openai.com/research/ai-and-efficiency" target="_blank">OpenAI</a></p></li>
+	  <li class="news"><p>AI-generated food images look tastier than real ones.<br><a href="https://www.ox.ac.uk/news/2024-03-15-ai-generated-food-images-look-tastier-real-ones" target="_blank">University of Oxford News</a></p></li>
+		<li class="news"><p>Memories are made by breaking DNA and fixing it; Nerve cells form long-term memories with the help of an inflammatory response, study in mice finds.<br><a href="https://www.nature.com/articles/d41586-024-00930-y" target="_blank">Nature</a></p></li>
+		<li class="news"><p>These Plants Could Mine Valuable Metals From the Soil With Their Roots.<br><a href="https://singularityhub.com/2024/03/28/these-plants-could-mine-crucial-battery-materials-from-the-soil-with-their-roots/" target="_blank">Singularity Hub</a></p></li>
+		<li class="news"><p>Start using ChatGPT instantly, making it easier for people to experience the benefits of AI without needing to sign up. It also means protection against any upcoming age verification laws.<br><a href="https://openai.com/blog/start-using-chatgpt-instantly" target="_blank">OpenAI</a></p></li>
+	</ol>
+</div>
+
+
 <h3 class="expandable-header"><span class="arrow-container"><strong>Newsletter 6 | 20 Mar 2024</strong><span class="arrow"></span></span></h3>
 <div class="expandable-section">
 <h4>AI /ML</h4>
