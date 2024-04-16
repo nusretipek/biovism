@@ -97,6 +97,37 @@ design:
 <div class="title"><h2><strong>Biweekly News</strong></h2></div>
 
 
+<h3 class="expandable-header"><span class="arrow-container"><strong>Newsletter 8 | 17 Apr 2024</strong><span class="arrow"></span></span></h3>
+<div class="expandable-section">
+<h4>AI /ML</h4>
+	<ol>
+	  <li class="news"><p>From Google DeepMind: Mixture-of-Depths: Dynamically allocating compute in transformer-based language models. Instead of routing tokens to multiple experts, you "deploy to a single expert which can be dynamically skipped".<br><a href="https://arxiv.org/abs/2404.02258" target="_blank">arXiv</a></p></li>
+		<li class="news"><p>Wu's Method can Boost Symbolic AI to Rival Silver Medalists and AlphaGeometry to Outperform Gold Medalists at IMO Geometry. The first AI method which outperforms an IMO gold medalist.<br><a href="https://arxiv.org/abs/2404.06405" target="_blank">arXiv</a></p></li>
+	  <li class="news"><p>From Meta AI: Schedule-Free Learning - A New Way to Train in PyTorch.<br><a href="https://github.com/facebookresearch/schedule_free" target="_blank">GitHub (facebookresearch)</a></p></li>
+		<li class="news"><p>Are large language models superhuman chemists? Best models outperformed the best human chemists in our study on average.<br><a href="https://arxiv.org/abs/2404.01475" target="_blank">arXiv</a></p></li>
+	  <li class="news"><p>Study: AI writing, illustration emits hundreds of times less carbon than humans.<br><a href="https://news.ku.edu/news/article/study-ai-writing-illustration-emits-hundreds-of-times-less-carbon-than-humans" target="_blank">KU News</a></p></li>
+		<li class="news"><p>The Turing test of online reviews: Can we tell the difference between human-written and GPT-4-written online reviews? It seems predictions boil down to coin toss.<br><a href="https://link.springer.com/article/10.1007/s11002-024-09729-3" target="_blank">Marketing Letters (Springer)</a></p></li>
+	</ol>
+<h4>Technology</h4>
+	<ol>
+	  <li class="news"><p>Open source cryptography: Fully Homomorphic Encryption (FHE) by Zama AI.<br><a href="https://www.zama.ai" target="_blank">ZAMA</a></p></li>
+		<li class="news"><p>GitHub’s new AI-powered tool auto-fixes vulnerabilities in your code. Code Scanning Autofix and powered by GitHub Copilot and CodeQL, it helps deal with over 90% of alert types in JavaScript, Typescript, Java, and Python.<br><a href="https://www.bleepingcomputer.com/news/security/githubs-new-ai-powered-tool-auto-fixes-vulnerabilities-in-your-code/" target="_blank">Bleeping Computer</a></p></li>
+		<li class="news"><p>Blink to Generate Power for Smart Contact Lenses: a dual-mode power pack harvests energy from light and from tears.<br><a href="https://spectrum.ieee.org/power-smart-contact-lenses" target="_blank">IEEE Spectrum</a></p></li>
+		<li class="news"><p>Next-generation Meta Training and Inference Accelerator (MTIA).<br><a href="https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/" target="_blank">Meta AI</a></p></li>
+		<li class="news"><p>This 3D printer can figure out how to print with an unknown material. The advance could help make 3D printing more sustainable, enabling printing with renewable or recyclable materials that are difficult to characterize.<br><a href="https://news.mit.edu/2024/3d-printer-can-print-with-unknown-material-0408" target="_blank">MIT News</a></p></li>
+	</ol>
+<h4>Miscellaneous</h4>
+	<ol>
+  <li class="news"><p>The Solution of the Zodiac Killer's 340-Character Cipher.<br><a href="https://arxiv.org/abs/2403.17350" target="_blank">arXiv</a></p></li>
+  <li class="news"><p>NASA wants to come up with a new clock for the moon, where seconds tick away faster.<br><a href="https://phys.org/news/2024-04-nasa-clock-moon-seconds-faster.html" target="_blank">PHYS ORG</a></p></li>
+  <li class="news"><p>People quasi-randomly assigned to farm rice are more collectivistic than people assigned to farm wheat.<br><a href="https://www.nature.com/articles/s41467-024-44770-w" target="_blank">Nature Communications</a></p></li>
+	</ol>
+<h4>Fun</h4>
+  <ol>
+		<li class="news"><p><b>Dataset:</b> Root System Drawings: the collection holds 1,180 drawings, the outcome of 40 years of  root system excavations in Europe.<br><a href="https://images.wur.nl/digital/collection/coll13/search" target="_blank">Wageningen University & Research</a></p></li>
+	</ol>
+</div>
+
 <h3 class="expandable-header"><span class="arrow-container"><strong>Newsletter 7 | 03 Apr 2024</strong><span class="arrow"></span></span></h3>
 <div class="expandable-section">
 <h4>AI /ML</h4>
