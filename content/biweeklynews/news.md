@@ -97,6 +97,43 @@ design:
 <div class="title"><h2><strong>Biweekly News</strong></h2></div>
 
 
+<h3 class="expandable-header"><span class="arrow-container"><strong>Newsletter 9 | 01 May 2024</strong><span class="arrow"></span></span></h3>
+<div class="expandable-section">
+<h4>AI /ML</h4>
+	<ol>
+	  <li class="news"><p>Introducing Meta Llama 3: The most capable openly available LLM to date. Pretrained and instruction-fine-tuned models are the best models existing today at the 8B and 70B parameter scale. Largest models are over 400B parameters and, while these models are still training, seems already on par with best GPT.<br><a href="https://ai.meta.com/blog/meta-llama-3/" target="_blank">Meta AI</a></p></li>
+		<li class="news"><p>KAN: Kolmogorov-Arnold Networks as promising alternatives to Multi-Layer Perceptrons (MLPs). Paper shows that this seemingly simple change makes KANs outperform MLPs in terms of accuracy and interpretability. For accuracy, much smaller KANs can achieve comparable or better accuracy than much larger MLPs in data fitting and PDE solving.<br><a href="https://arxiv.org/abs/2404.19756" target="_blank">arXiv</a></p></li>
+		<li class="news"><p>VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time. Single portrait photo + speech audio = hyper-realistic talking face video with precise lip-audio sync, lifelike facial behavior, and naturalistic head movements, generated in real time.<br><a href="https://www.microsoft.com/en-us/research/project/vasa-1/" target="_blank">Microsoft</a></p></li>
+		<li class="news"><p>Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone. A 3.8 billion parameter language model trained on 3.3 trillion tokens, whose overall performance, as measured by both academic benchmarks and internal testing, rivals that of models such as Mixtral 8x7B and GPT-3.5 (e.g., phi-3-mini achieves 69% on MMLU and 8.38 on MT-bench), despite being small enough to be deployed on a phone.<br><a href="https://arxiv.org/abs/2404.14219" target="_blank">arXiv</a></p></li>
+		<li class="news"><p>Apple releases eight small AI language models aimed at on-device use. OpenELM mirrors efforts by Microsoft to make useful small AI language models that run locally (270M-3B parameters).<br><a href="https://arstechnica.com/information-technology/2024/04/apple-releases-eight-small-ai-language-models-aimed-at-on-device-use/" target="_blank">Ars Technica</a></p></li>
+		<li class="news"><p>StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation. StoryDiffusion can create impressive comics by our consistent self-attention, maintain character consistency for cohesive storytelling.<br><a href="https://storydiffusion.github.io" target="_blank">GitHub (storydiffusion)</a></p></li>
+		<li class="news"><p>Automated Social Science: Language Models as Scientist and Subjects; generating and testing, in silico, social scientific hypotheses.<br><a href="https://arxiv.org/abs/2404.11794" target="_blank">arXiv</a></p></li>
+		<li class="news"><p>OpenVoice: a versatile instant voice cloning approach that requires only a short audio clip from the reference speaker to replicate their voice and generate speech in multiple languages.<br><a href="https://github.com/myshell-ai/OpenVoice/tree/main" target="_blank">GitHub</a></p></li>
+		<li class="news"><p>Adobe research presents VideoGigaGAN: Towards Detail-rich Video Super-Resolution. A new generative VSR model that can produce videos with high-frequency details and temporal consistency. VideoGigaGAN builds upon a large-scale image upsampler (GigaGAN).<br><a href="https://videogigagan.github.io" target="_blank">GitHub (videogigagan)</a></p></li>
+	</ol>
+<h4>Technology</h4>
+	<ol>
+	  <li class="news"><p>Ray-Ban and Meta AI vision; makes possible to ask your glasses about what you’re seeing and get helpful information, completely hands-free.<br><a href="https://about.fb.com/news/2024/04/new-ray-ban-meta-smart-glasses-styles-and-meta-ai-updates/" target="_blank">Meta AI</a></p></li>
+		<li class="news"><p>BirdNET-Pi is a real-time acoustic bird classification system. It uses a USB sound card to pick up bird sounds, and classifies them locally using a pre-trained machine learning model. A-BiRD uses Raspberry Pi to identify different species singing at the same time using BirdNET Sound ID at the Cornell Lab of Ornithology for analysis.<br><a href="https://www.raspberrypi.com/news/a-bird-uses-raspberry-pi-to-identify-different-species-singing-at-the-same-time/" target="_blank">Raspberry Pi</a></p></li>
+		<li class="news"><p>A Universal Vaccine Against Any Viral Variant? A New Study Suggests It’s Possible.<br><a href="https://singularityhub.com/2024/04/22/a-universal-vaccine-against-any-viral-variant-a-new-study-suggest-its-possible/" target="_blank">Singularity Hub</a></p></li>
+		<li class="news"><p>Startups Say India Is Ideal for Testing Self-Driving Cars; unruly traffic forces innovative approaches to autonomy.<br><a href="https://spectrum.ieee.org/india-self-driving-car" target="_blank">IEEE Spectrum</a></p></li>
+		<li class="news"><p>World's biggest 3D printer whirs into action. A giant 3D printer, which is big enough to make a house, has been unveiled at the University of Maine.<br><a href="https://www.bbc.com/news/articles/cx7d34nl5vwo" target="_blank">BBC News</a></p></li>
+	</ol>
+<h4>Miscellaneous</h4>
+	<ol>
+	  <li class="news"><p>Moderna and OpenAI partner to accelerate the development of life-saving treatments.<br><a href="https://openai.com/customer-stories/moderna" target="_blank">Open AI</a></p></li>
+		<li class="news"><p>Eric Schmidt-backed Augment, a GitHub Copilot rival, launches out of stealth with $252M.<br><a href="https://techcrunch.com/2024/04/24/eric-schmidt-backed-augment-a-github-copilot-rival-launches-out-of-stealth-with-252m/" target="_blank">TechCrunch</a></p></li>
+		<li class="news"><p>China's Moon atlas is the most detailed ever made; The Geologic Atlas of the Lunar Globe doubles the resolution of Apollo-era maps and will support the space ambitions of China and other countries.<br><a href="https://www.nature.com/articles/d41586-024-01223-0" target="_blank">Nature</a></p></li>
+		<li class="news"><p>A Win–Win Approach: Maximizing Wi-Fi Performance Using Game Theory.<br><a href="https://www.shibaura-it.ac.jp/en/headline/detail/20240416_7070_001.html" target="_blank">Shibaura Institute of Technology</a></p></li>
+		<li class="news"><p>The Rise of GQL: A New ISO Standard in Graph Query Language.<br><a href="https://www.tigergraph.com/blogs/gsql/the-rise-of-gql-a-new-iso-standard-in-graph-query-language/" target="_blank">Tiger Graph</a></p></li>
+	</ol>
+<h4>Fun</h4>
+  <ol>
+	  <li class="news"><p><b>Read: </b>Why Everything is Becoming a Game: All the better to control you.<br><a href="https://www.gurwinder.blog/p/why-everything-is-becoming-a-game" target="_blank">Gurwinder Blog</a></p></li>
+	</ol>
+</div>
+
+
 <h3 class="expandable-header"><span class="arrow-container"><strong>Newsletter 8 | 17 Apr 2024</strong><span class="arrow"></span></span></h3>
 <div class="expandable-section">
 <h4>AI /ML</h4>
