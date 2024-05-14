@@ -97,6 +97,39 @@ design:
 <div class="title"><h2><strong>Biweekly News</strong></h2></div>
 
 
+
+
+<h3 class="expandable-header"><span class="arrow-container"><strong>Newsletter 10 | 15 May 2024</strong><span class="arrow"></span></span></h3>
+<div class="expandable-section">
+<h4>AI /ML</h4>
+	<ol>
+	  <li class="news"><p>AlphaFold 3 predicts the structure and interactions of all of life’s molecules; a new AI model developed by Google DeepMind and Isomorphic Labs. By accurately predicting the structure of proteins, DNA, RNA, ligands and more, and how they interact, we hope it will transform our understanding of the biological world and drug discovery.<br><a href="https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/" target="_blank">Google (Blog)</a></p></li>
+		<li class="news"><p>OpenAI introduces the "Model Spec"; to deepen the public conversation about how AI models should behave. A new document that specifies OpenAI approach to shaping desired model behavior and how they evaluate tradeoffs when conflicts arise.<br><a href="https://openai.com/index/introducing-the-model-spec/" target="_blank">OpenAI</a></p></li>
+		<li class="news"><p>What Is a Virtual Factory, and How They’re Making Industrial Digitalization a Reality? Virtual factories are helping manufacturers unlock new possibilities, from planning to operations.<br><a href="https://blogs.nvidia.com/blog/virtual-factories-industrial-digitalization/" target="_blank">NVIDIA (Blog)</a></p></li>
+		<li class="news"><p>AI is gathering a growing amount of training data inside virtual worlds; simulation is increasingly being used to accelerate the development of autonomous vehicles.<br><a href="https://singularityhub.com/2024/05/01/ai-is-gathering-a-growing-amount-of-training-data-inside-virtual-worlds/" target="_blank">Singularity Hub</a></p></li>
+		<li class="news"><p>From Meta AI "RadOnc-GPT "; Leveraging Meta Llama for a pioneering radiation oncology model. Mayo Clinic’s pioneeringRadOnc-GPT is a large language model (LLM) leveraging Meta Llama 2 that has the potential to significantly improve the speed, accuracy, and quality of radiation therapy decision-making, benefiting both medical practitioners and the patients they serve.<br><a href="https://ai.meta.com/blog/radonc-gpt-meta-llama-2-mayo-clinic/" target="_blank">Meta AI</a></p></li>
+		<li class="news"><p>From Microsoft Research, You Only Cache Once (YOCO); Decoder-Decoder Architectures for Language Models. YOCO, for large language models, only caches key-value pairs once.<br><a href="https://arxiv.org/abs/2405.05254" target="_blank">arXiv</a></p></li>
+		<li class="news"><p>ScrapeGraphAI: You Only Scrape Once. A web scraping python library that uses LLM and direct graph logic to create scraping pipelines for websites and local documents (XML, HTML, JSON, etc.).<br><a href="https://github.com/VinciGit00/Scrapegraph-ai" target="_blank">GitHub</a></p></li>
+	</ol>
+<h4>Technology</h4>
+	<ol>
+	  <li class="news"><p>World's 1st "tooth regrowth medicine" to be tested in Japan from September 2024.<br><a href="https://mainichi.jp/english/articles/20240503/p2a/00m/0sc/012000c" target="_blank">The Mainichi</a></p></li>
+		<li class="news"><p>Atomic Nucleus Excited with Laser: A Breakthrough after Decades. The "thorium transition", which physicists have been looking for for decades, has now been excited for the first time with lasers. This paves the way for revolutionary high precision technologies, including nuclear clocks.<br><a href="https://www.tuwien.at/en/tu-wien/news/news/lange-erhoffter-durchbruch-erstmals-atomkern-mit-laser-angeregt" target="_blank">TU WIEN</a></p></li>
+		<li class="news"><p>Apple introduces M4 chip; M4 enables the breakthrough design and stunning display of the new iPad Pro, while delivering a giant leap in performance.<br><a href="https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/" target="_blank">Apple</a></p></li>
+	</ol>
+<h4>Miscellaneous</h4>
+	<ol>
+	  <li class="news"><p>Most common 4 digit PIN numbers from an analysis of 3.4 million. The top 20 constitute 27% of all PIN codes!<br><a href="https://www.reddit.com/r/dataisbeautiful/comments/1cn7l7r/oc_most_common_4_digit_pin_numbers_from_an/" target="_blank">Reddit</a></p></li>
+		<li class="news"><p>Microsoft readies new AI model to compete with Google, OpenAI, The Information reports; new model, internally referred to as MAI-1 with roughly 500 billion parameters.<br><a href="https://www.reuters.com/technology/microsoft-readies-new-ai-model-compete-with-google-openai-information-reports-2024-05-06/" target="_blank">Reuters</a></p></li>
+		<li class="news"><p>New AI search engine "Upend" emerges from stealth, powered by 100 LLMs.<br><a href="https://venturebeat.com/ai/new-ai-search-engine-upend-emerges-from-stealth-powered-by-100-llms/" target="_blank">VentureBeat</a></p></li>
+	</ol>
+<h4>Fun</h4>
+  <ol>
+	  <li class="news"><p><b>Watch: </b>Mini Sci-Fi series; showcases alien worlds from the distant past or far future, and focus on a terrifying turning point in a long forgotten alien culture.<br><a href="https://www.youtube.com/playlist?list=PLUYLgWkQZ39J61ykA_Jrknx8230GbnYvV" target="_blank">YouTube</a></p></li>
+	</ol>
+</div>
+
+
 <h3 class="expandable-header"><span class="arrow-container"><strong>Newsletter 9 | 01 May 2024</strong><span class="arrow"></span></span></h3>
 <div class="expandable-section">
 <h4>AI /ML</h4>
