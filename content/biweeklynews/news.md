@@ -96,7 +96,34 @@ design:
 <html>
 <div class="title"><h2><strong>Biweekly News</strong></h2></div>
 
-
+<h3 class="expandable-header"><span class="arrow-container"><strong>Newsletter 11 | 19 June 2024</strong><span class="arrow"></span></span></h3>
+<div class="expandable-section">
+<h4>AI /ML</h4>
+	<ol>
+	  <li class="news"><p>New algorithm discovers language just by watching videos. DenseAV, developed at MIT, learns to parse and understand the meaning of language just by watching videos of people talking, with potential applications in multimedia search, language learning, and robotics.<br><a href="https://news.mit.edu/2024/denseav-algorithm-discovers-language-just-watching-videos-0611" target="_blank">MIT News</a></p></li>
+		<li class="news"><p>GPU maker tops new MLPerf benchmarks on graph neural nets and LLM fine-tuning.<br><a href="https://spectrum.ieee.org/mlperf-nvidia-conquers" target="_blank">IEEE Spectrum</a></p></li>
+		<li class="news"><p>Study demonstrates how AI can develop more personalised cancer treatment strategies.<br><a href="https://www.ox.ac.uk/news/2024-06-17-study-demonstrates-how-ai-can-develop-more-personalised-cancer-treatment-strategies" target="_blank">University of Oxford</a></p></li>
+		<li class="news"><p>Proofread from Goole: Fixes All Errors with One Tap.<br><a href="https://arxiv.org/abs/2406.04523" target="_blank">arXiv</a></p></li>
+		<li class="news"><p>ImageInWords: Unlocking Hyper-Detailed Image Descriptions.<br><a href="https://google.github.io/imageinwords/" target="_blank">GitHub: google</a></p></li>
+	  <li class="news"><p>This is AI's 'next wave,' according to Nvidia CEO Jensen Huang; The chipmaker's chief executive said robots and "AI that understands the laws of physics" are the next wave of the technology.<br><a href="https://qz.com/ai-next-wave-robots-nvidia-jensen-huang-blackwell-rubin-1851515953" target="_blank">QUARTZ</a></p></li>
+	</ol>
+<h4>Technology</h4>
+	<ol>
+		<li class="news"><p>We are creating new crops five-times faster; Using current and past data, such as from satellite imagery and temperature and rainfall readings, and combining that with future projections, ClimateAi aims to give farmers the most accurate possible, locally-tailored weather forecasts, from one hour to six months ahead.<br><a href="https://www.bbc.com/news/articles/c9xxjx7e2gjo" target="_blank">BBC News</a></p></li>
+	  <li class="news"><p>Mouth-based touchpad enables people living with paralysis to interact with computers; The startup Augmental allows users to operate phones and other devices using their tongue, mouth, and head gestures.<br><a href="https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605#:~:text=interact%20with%20computers-,Mouth-based%20touchpad%20enables%20people%20living%20with%20paralysis%20to%20interact,%2C%20mouth%2C%20and%20head%20gestures." target="_blank">MIT News</a></p></li>
+		<li class="news"><p>China Is Testing More Driverless Cars Than Any Other Country. Assisted driving systems and robot taxis are becoming more popular with government help, as cities designate large areas for testing on public roads.<br><a href="https://archive.is/l6wNU" target="_blank">The New York Times</a></p></li>
+	</ol>
+<h4>Miscellaneous</h4>
+	<ol>
+	  <li class="news"><p>MLow: Meta’s low bitrate audio codec<br><a href="https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/" target="_blank">Engineering at Meta</a></p></li>
+		<li class="news"><p>African elephants address one another with individually specific name-like calls.<br><a href="https://www.nature.com/articles/s41559-024-02420-w.epdf?sharing_token=g7HSB8Bly_A3jM6BOKMMpNRgN0jAjWel9jnR3ZoTv0Olo1SMOErlEJeDqPXds_03N_QW4UfCz3Khb-Dp6U5ut0VwhTh4wGWa1fQNBMxtnMZ2gfl9u67lYD2PGJhOQLw3RrC_lJgDnm0dQqMVMZmnhCbpXIuLKJPc6VItfTf-JME%3D" target="_blank">Nature Ecology & Evolution</a></p></li>
+		<li class="news"><p>The Age of the Drone Police Is Here.<br><a href="https://archive.is/2dkrB" target="_blank">WIRED</a></p></li>
+	</ol>
+<h4>Fun</h4>
+  <ol>
+	  <li class="news"><p><b>Code: </b>GPT in 60 Lines of NumPy<br><a href="https://jaykmody.com/blog/gpt-from-scratch/" target="_blank">Jay Mody</a></p></li>
+	</ol>
+</div>
 
 
 <h3 class="expandable-header"><span class="arrow-container"><strong>Newsletter 10 | 15 May 2024</strong><span class="arrow"></span></span></h3>
