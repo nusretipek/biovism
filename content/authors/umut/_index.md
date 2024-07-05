@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Student
+role: Ph.D.
 
 # Organizations/Affiliations
 organizations:
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Bioscience Engineering - Mathematical Modelling
     institution: Ghent University (UGent)
-    year: 2020 - Ongoing
+    year: 2020 - 2024
   - course: MSc in Physics
     institution: ETH-Zurich
     year: 2015
@@ -65,7 +65,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Affiliated Staff
+- Alumni
 
 ---
 
